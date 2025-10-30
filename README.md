@@ -61,17 +61,6 @@ A powerful browser extension that allows you to download Instagram Reels, Storie
   - `downloads` - Download media files
   - `storage` - Save extension settings
 
-## 📁 Project Structure
-hemre-ig-downloader/
-├── manifest.json # Extension manifest
-├── content.js # Main content script
-├── background.js # Background service worker
-├── popup/
-│ ├── popup.html # Extension popup
-│ ├── popup.js # Popup functionality
-│ └── popup.css # Popup styles
-└── README.md # This file
-
 ## 🔧 Development
 
 ### Prerequisites
