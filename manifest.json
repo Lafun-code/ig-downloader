@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "H. Emre's IG Downloader (v4.7 - FINAL)",
+  "name": "Instagram Downloader For REELS | STORYS | POSTS)",
   "version": "4.7",
   "description": "A global download button that shows/hides based on the URL.",
   "permissions": [
@@ -29,9 +29,9 @@
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
-      "16": "icon16.png",
-      "48": "icon48.png",
-      "128": "icon128.png"
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
     }
   },
   "icons": {
