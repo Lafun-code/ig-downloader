@@ -65,23 +65,19 @@ A powerful browser extension that allows you to download Instagram Reels, Storie
 - Basic knowledge of JavaScript
 - Modern browser with developer tools
 
-### Building from Source
+##🐛 Troubleshooting
+- Common Issues
+- Download button not appearing:
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/hemre-ig-downloader.git
-cd hemre-ig-downloader
+- !! Refresh the Instagram page !!
 
-
-## 🔧 Development
-
-### Prerequisites
-- Basic knowledge of JavaScript
-- Modern browser with developer tools
-
-### Building from Source
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/hemre-ig-downloader.git
-cd hemre-ig-downloader
+- Ensure you're on a supported page (Reel, Story, or Post)
+- Check if the extension is enabled in browser settings
+- Downloads not starting:
+- Check your browser's download settings
+- Ensure no pop-up blockers are interfering
+- Verify you have sufficient storage space
+- Extension not working:
+- Restart your browser
+- Reinstall the extension
+- Check the browser console for errors (F12)
