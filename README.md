@@ -19,12 +19,11 @@ A powerful browser extension that allows you to download Instagram Reels, Storie
 
 ### Chrome/Edge/Brave
 
-1. Download the latest release from the [Releases page](https://github.com/yourusername/hemre-ig-downloader/releases)
-2. Extract the ZIP file to a folder
-3. Open your browser and go to `chrome://extensions/`
-4. Enable **"Developer mode"** in the top right
-5. Click **"Load unpacked"** and select the extracted folder
-6. The extension is now installed and ready to use!
+1. Extract the ZIP file to a folder
+2. Open your browser and go to `chrome://extensions/`
+3. Enable **"Developer mode"** in the top right
+4. Click **"Load unpacked"** and select the extracted folder
+5. The extension is now installed and ready to use!
 
 ### Firefox
 
