@@ -66,6 +66,7 @@ A powerful browser extension that allows you to download Instagram Reels, Storie
 - Modern browser with developer tools
 
 ### 🐛 Troubleshooting
+
 - Common Issues
 - Download button not appearing:
 
