@@ -27,11 +27,10 @@ A powerful browser extension that allows you to download Instagram Reels, Storie
 
 ### Firefox
 
-1. Download the XPI file from the [Releases page](https://github.com/yourusername/hemre-ig-downloader/releases)
-2. Open Firefox and go to `about:addons`
-3. Click the gear icon and select **"Install Add-on From File"**
-4. Select the downloaded XPI file
-5. The extension is now installed!
+1. Open Firefox and go to `about:addons`
+2. Click the gear icon and select **"Install Add-on From File"**
+3. Select the downloaded XPI file
+4. The extension is now installed!
 
 ## 📖 How to Use
 
